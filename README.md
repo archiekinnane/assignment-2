@@ -1,3 +1,8 @@
+### AK - 11/6/25
+Updated assignment2.py to include line functionality
+Added data for all nuclear power plants in the US, saved in ak_map_data.xlsx
+Final map available here: https://archiekinnane.github.io/assignment-2/map.html
+
 # Excel to Folium Map Generator
 
 A Python script that parses an Excel spreadsheet with multiple tabs containing different types of map data and creates an interactive Folium map.
